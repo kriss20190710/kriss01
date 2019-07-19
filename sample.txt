@@ -10,3 +10,9 @@ https://tortoisegit.org/download/
 
 https://devstorylog.blogspot.com/2018/05/windows-git-github.html
 https://backlog.com/git-tutorial/kr/intro/intro4_1.html
+
+https://gbsb.tistory.com/10
+http://kwangho9-develope.blogspot.com/2016/11/git-clienttortoisegit.html
+
+
+C:\Program Files\Git\bin
